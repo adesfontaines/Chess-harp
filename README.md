@@ -1,2 +1,2 @@
 # Chess-harp
-Simple chess in winform made when I was at school.
+A Simple chess game in C# made when I was in school.
